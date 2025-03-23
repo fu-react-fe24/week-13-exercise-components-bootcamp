@@ -46,3 +46,6 @@ Dokumentationen för Array.map() [hittar du här](https://developer.mozilla.org/
 Skapa en komponent i taget!
 Börja exempelvis med en eventuell Header och styla den tills du blir nöjd. Skapa därefter Headerns sub-komponenter och styla dem tills du blir nöjd. Först därefter går du vidare till nästa komponent. Koda och styla uppifrån och ner.
 Inledningsvis lägger vi all styling i ```index.css```.
+
+## React Bootcamp
+[I detta dokument](https://docs.google.com/document/d/15Ez_E2d3mh7NuDa60A3Lj-4rZZc52eN7I05PhYwtvk8/edit?usp=sharing) finner ni uppgifter som ni nu för kunna utföra (sida 1-2).
