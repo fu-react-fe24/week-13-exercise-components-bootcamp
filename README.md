@@ -1,16 +1,16 @@
-# Övningar
+# Vecka 13: Components Bootcamp
 
 ## Komponenter
 
 ### Övning 1 - Komponentstruktur
 1. Skapa ett nytt react-projekt
-2. Titta på bilderna i mappen ```assets``` och fundera på vilka komponenter du ser. Vilka är de övergripande komponenterna för webbsidan som helhet, och vilka sub-komponenter finns eventuellt?
+2. Titta på bilderna i mappen ```assets``` och fundera på vilka komponenter du ser. Vilka är de övergripande komponenterna för webbsidan som helhet, och vilka sub-komponenter finns eventuellt? Utför gärna Decomposition i Figma för att få en tydlig överblick!
 3. Skapa dina övergripande funktionella komponenter var för sig i egna filer, och läs in dem i ```App.jsx```.
 4. Skapa dina eventuella sub-komponenter och importera dem in i lämplig huvudkomponent.
 5. Försök styla så att dina versioner ser likadana ut som bilderna i ```assets```.
 
 #### Tips!
-Skapa INTE ett projekt per bild, utan skapa hellre en komponent per bild, där du då kan välja i ```App.jsx``` vilken av dina versioner du vill visa på skärmen. Exempelvis: ```<Desktop-1 />```.
+Skapa INTE ett projekt per bild, utan skapa hellre en komponent per bild, där du då kan välja i ```App.jsx``` vilken av dina versioner du vill visa på skärmen. Exempelvis: ```<Desktop-1 />```. För att undvika konfliker mellan olika sidor i CSSen, så kan du kommentera ut varje färdigställt block i din CSS-fil.
 
 #### Nästa steg
 Stoppa in riktig data i dina komponenter. Fyll exempelvis listobjekt med riktiga länkar, stoppa in lorem ipsum-text i dina artiklar, återanvänd dina listobjekt inuti din footer etc. 
